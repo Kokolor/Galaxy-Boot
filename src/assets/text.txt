@@ -1,0 +1,5 @@
+# Example configuration file
+
+debug=false
+verbose=true
+max_users=10
